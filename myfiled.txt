@@ -1,0 +1,47 @@
+What will be the Output of the following Code?\nx=5\ny=10\nprint(x+y)
+10,15,20,None
+15
+
+What is the capital of India
+Delhi,Mumbai,Lucknow,New Delhi
+New Delhi
+
+What is the output of the following code?\n\tint a = 5, b = 10;\n\tprintf("%d", a++ + ++b);
+14,15,16,17
+16
+
+Which data structure is used in function call mechanism in C?
+Queue,Array,Stack,Linked List
+Stack
+
+What is the output?\n\tint arr[] = {10, 20, 30};\n\tprintf("%d", *(arr + 1));
+10,20,30,40
+20
+
+Which data structure is ideal for implementing recursion?
+Queue,Array,Graph,Stack
+Stack
+
+What is the size of a pointer in C on a 64-bit system?
+2 bytes,4 bytes,8 bytes,Depends on data type
+8 bytes
+
+What is the output?\n\tint x = 3;\n\tint y = x << 2;\n\tprintf("%d", y);
+6,8,10,12
+12
+
+Which traversal prints BST in sorted order?
+Preorder,Postorder,Inorder,Level-order
+Inorder
+
+What is the output?\n\tchar str[] = "GATE";\n\tprintf("%c", *(str + 2));
+G,T,A,E
+T
+
+Which is not a linear data structure?
+Array,Stack,Queue,Tree
+Tree
+
+What is the output?\n\tint a = 10;\n\tint *p = &a;\n\tprintf("%d", *p);
+10,0,Garbage,Address
+10
